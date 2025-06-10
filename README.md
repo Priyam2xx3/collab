@@ -45,3 +45,28 @@ This project uses a dataset of labeled messages and builds a classifier that can
 
 5. **Prediction**:
    - The model can predict whether new messages are spam or ham
+
+---
+
+## 🚀 How to Run the Project
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/spam-classifier.git
+cd spam-classifier
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run the Google Colab or Streamlit app
+google cplab spam_classifier.ipynb
+# or
+streamlit run app.py
+
+| Metric    | Score |
+| --------- | ----- |
+| Accuracy  | 97.5% |
+| Precision | 96.8% |
+| Recall    | 95.2% |
+| F1 Score  | 96.0% |
+
