@@ -45,9 +45,3 @@ This project uses a dataset of labeled messages and builds a classifier that can
 
 5. **Prediction**:
    - The model can predict whether new messages are spam or ham
-
----
-
-## 🧪 Sample Output
-
-
