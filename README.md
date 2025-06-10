@@ -62,11 +62,3 @@ pip install -r requirements.txt
 google cplab spam_classifier.ipynb
 # or
 streamlit run app.py
-
-| Metric    | Score |
-| --------- | ----- |
-| Accuracy  | 97.5% |
-| Precision | 96.8% |
-| Recall    | 95.2% |
-| F1 Score  | 96.0% |
-
